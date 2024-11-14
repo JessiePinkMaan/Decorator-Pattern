@@ -1,0 +1,15 @@
+C:\Users\Kefir_\source\repos\Decorator Pattern\bin\Debug\net6.0\Decorator Pattern.exe
+C:\Users\Kefir_\source\repos\Decorator Pattern\bin\Debug\net6.0\Decorator Pattern.deps.json
+C:\Users\Kefir_\source\repos\Decorator Pattern\bin\Debug\net6.0\Decorator Pattern.runtimeconfig.json
+C:\Users\Kefir_\source\repos\Decorator Pattern\bin\Debug\net6.0\Decorator Pattern.dll
+C:\Users\Kefir_\source\repos\Decorator Pattern\bin\Debug\net6.0\Decorator Pattern.pdb
+C:\Users\Kefir_\source\repos\Decorator Pattern\obj\Debug\net6.0\Decorator Pattern.csproj.AssemblyReference.cache
+C:\Users\Kefir_\source\repos\Decorator Pattern\obj\Debug\net6.0\Decorator Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kefir_\source\repos\Decorator Pattern\obj\Debug\net6.0\Decorator Pattern.AssemblyInfoInputs.cache
+C:\Users\Kefir_\source\repos\Decorator Pattern\obj\Debug\net6.0\Decorator Pattern.AssemblyInfo.cs
+C:\Users\Kefir_\source\repos\Decorator Pattern\obj\Debug\net6.0\Decorator Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Kefir_\source\repos\Decorator Pattern\obj\Debug\net6.0\Decorator Pattern.dll
+C:\Users\Kefir_\source\repos\Decorator Pattern\obj\Debug\net6.0\refint\Decorator Pattern.dll
+C:\Users\Kefir_\source\repos\Decorator Pattern\obj\Debug\net6.0\Decorator Pattern.pdb
+C:\Users\Kefir_\source\repos\Decorator Pattern\obj\Debug\net6.0\Decorator Pattern.genruntimeconfig.cache
+C:\Users\Kefir_\source\repos\Decorator Pattern\obj\Debug\net6.0\ref\Decorator Pattern.dll
